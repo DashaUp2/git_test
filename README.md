@@ -1,2 +1,2 @@
 Hello!
-image 
+This is git **image**:
